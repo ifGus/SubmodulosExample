@@ -1,0 +1,3 @@
+[submodule "entrenamiento"]
+	path = entrenamiento
+	url = https://github.com/Gerverman/entrenamiento.git
